@@ -13,6 +13,7 @@
     "@hashgraph/sdk": "^2.50.0",
     "alchemy-sdk": "^3.4.1",
     "dotenv": "^16.4.5",
+    "superjson": "^2.2.1",
     "ts-node": "^10.9.2",
     "viem": "^2.20.1"
   }
